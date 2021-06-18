@@ -1,16 +1,21 @@
 # shop
 
-A new Flutter project.
+<p float="left">
+<img src="https://user-images.githubusercontent.com/65341290/122591436-963e7900-d080-11eb-817e-c5b08beff7dc.jpg" alt="drawing" width="200"/>
+<img src="https://user-images.githubusercontent.com/65341290/122591442-98a0d300-d080-11eb-98f5-a65112e0ba33.jpg" alt="drawing" width="200"/>
+<img src="https://user-images.githubusercontent.com/65341290/122591446-99396980-d080-11eb-9b86-6080f0f4dfa0.jpg" alt="drawing" width="200"/>
+</p>
 
-## Getting Started
+<p float="left">
+<img src="https://user-images.githubusercontent.com/65341290/122591447-99d20000-d080-11eb-99aa-7d87a0bfbc0a.jpg" alt="drawing" width="200"/>
+<img src="https://user-images.githubusercontent.com/65341290/122591452-9b032d00-d080-11eb-8bee-28049029b354.jpg" alt="drawing" width="200"/>
+<img src="https://user-images.githubusercontent.com/65341290/122591458-9b9bc380-d080-11eb-9dcf-350cda75346a.jpg" alt="drawing" width="200"/>
+</p>
 
-This project is a starting point for a Flutter application.
+<p float="left">
+<img src="https://user-images.githubusercontent.com/65341290/122556550-47311d80-d059-11eb-9dab-d6685145874b.jpg" alt="drawing" width="200"/>
+<img src="https://user-images.githubusercontent.com/65341290/122591461-9cccf080-d080-11eb-8854-caa09e3e7765.jpg" alt="drawing" width="200"/>
+</p>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
