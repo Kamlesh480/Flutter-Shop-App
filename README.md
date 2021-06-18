@@ -13,7 +13,6 @@
 </p>
 
 <p float="left">
-<img src="https://user-images.githubusercontent.com/65341290/122556550-47311d80-d059-11eb-9dab-d6685145874b.jpg" alt="drawing" width="200"/>
 <img src="https://user-images.githubusercontent.com/65341290/122591461-9cccf080-d080-11eb-8854-caa09e3e7765.jpg" alt="drawing" width="200"/>
 </p>
 
